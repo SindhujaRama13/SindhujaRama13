@@ -106,11 +106,36 @@
 
 ### 💼 Professional Experience
 
-| Period | Role | Company | Highlights |
-|:---:|:---:|:---|:---|
-| **May 2025 - Present** | **Data Engineer** | **Walmart** | 🛒 Architecting self-service pipelines with Airflow/dbt/K8s.<br>⚡ Managing real-time Flink & Kafka streams.<br>🔒 Improving data governance & lineage. |
-| **Aug 2024 - May 2025** | **Data Engineer Intern** | **SAAP Tech** | 🚀 Reduced retrieval time from 3hrs to mins (AWS/GCP).<br>🔄 Automated pipelines for 10M+ records/day. |
-| **Aug 2019 - Jul 2023** | **Data Engineer** | **MedPlus** | 💊 Built 1PB/day data lakehouse.<br>📈 Improved analytical performance by 45%.<br>📊 ClickHouse analytics & Power BI dashboards. |
+### 💼 Professional Experience
+
+#### <img src="https://img.icons8.com/color/48/000000/walmart.png" width="20"/> Data Engineer @ **Walmart**
+_(May 2025 - Present)_
+> 🛒 Architecting scalable self-service data pipelines using Airflow, dbt, and Kubernetes.
+>
+> ⚡ Managing real-time stream processing with Flink and Kafka for omni-channel analytics.
+>
+> 🔒 Improving data governance & lineage.
+
+<br>
+
+#### <img src="https://img.icons8.com/color/48/000000/code.png" width="20"/> Data Engineer Intern @ **SAAP Tech**
+_(Aug 2024 - May 2025)_
+> 🚀 Reduced retrieval time from 3 hours to minutes (AWS/GCP).
+>
+> 🔄 Automated pipelines for 10M+ records/day.
+>
+> 🛡️ Secured unified data ingestion pipelines.
+
+<br>
+
+#### <img src="https://img.icons8.com/color/48/000000/medical-doctor.png" width="20"/> Data Engineer @ **MedPlus**
+_(Aug 2019 - Jul 2023)_
+> 💊 Built large-scale pipelines processing ~1PB/day across AWS & GCP.
+>
+> 📈 Designed multi-cloud data lakehouse, improving analytical performance by 45%.
+>
+> 📊 Built KPI-driven dashboards in Power BI & ClickHouse for real-time insights.
+
 
 ---
 
