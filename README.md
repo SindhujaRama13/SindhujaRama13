@@ -106,8 +106,6 @@
 
 ### 💼 Professional Experience
 
-### 💼 Professional Experience
-
 #### <img src="https://img.icons8.com/color/48/000000/walmart.png" width="20"/> Data Engineer @ **Walmart**
 _(May 2025 - Present)_
 > 🛒 Architecting scalable self-service data pipelines using Airflow, dbt, and Kubernetes.
